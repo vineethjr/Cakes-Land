@@ -45,6 +45,8 @@ Cakes-Land/
 1. Clone the repository:
    git clone https://github.com/vineethjr/cakes-land.git
 
+   http://127.0.0.1:5501/index1.html
+
 📬 Contact
 
 Created by Vineeth J 🍰
